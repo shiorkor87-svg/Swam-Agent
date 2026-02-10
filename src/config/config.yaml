@@ -1,0 +1,24 @@
+# Agent Configuration for Social Media Platforms
+
+# Configuration settings for various social media platforms
+
+social_media:
+  facebook:
+    enabled: true
+    api_key: "YOUR_FACEBOOK_API_KEY"
+    api_secret: "YOUR_FACEBOOK_API_SECRET"
+
+  twitter:
+    enabled: true
+    api_key: "YOUR_TWITTER_API_KEY"
+    api_secret: "YOUR_TWITTER_API_SECRET"
+
+  instagram:
+    enabled: true
+    api_key: "YOUR_INSTAGRAM_API_KEY"
+    api_secret: "YOUR_INSTAGRAM_API_SECRET"
+
+  linkedin:
+    enabled: false
+    api_key: "YOUR_LINKEDIN_API_KEY"
+    api_secret: "YOUR_LINKEDIN_API_SECRET"
