@@ -1,0 +1,7 @@
+# Python Dependencies
+
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
